@@ -5,7 +5,7 @@ The workshop makes use of the following exercises to enable users to become fami
 
 | Exercise | Topic | Resources |
 | --- | --- | --- |
-| ex01 | Accessing and using the JASMIN “scientific analyis” severs | [Resources](./exercises/ex01) |
+| ex01 | Accessing and using the JASMIN “scientific analysis” severs | [Resources](./exercises/ex01) |
 | ex02 | Copy data to JASMIN to share with collaborators | [Resources](./exercises/ex02) |
 | ex03 | Processing on the scientific analysis servers | [Resources](./exercises/ex03) |
 | ex04 | A script to extract 1 variable from a file in the CEDA Archive | [Resources](./exercises/ex04) |
